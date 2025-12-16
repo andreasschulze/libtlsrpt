@@ -4,7 +4,7 @@ AC_PROG_CC
 AM_PROG_AR
 AC_PROG_RANLIB
 LT_INIT
-AC_CONFIG_FILES([Makefile])
+AC_CONFIG_FILES([Makefile man/Makefile])
 AC_CONFIG_FILES([tlsrpt_version.h])
 
 TLSRPT_VERSION_MAJOR=0
